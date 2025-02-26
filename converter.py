@@ -4,7 +4,7 @@ from savify.utils import PathHolder
 from savify.logger import Logger
 
 class MusicDownloader:
-    def __init__(self, music_url, download_folder='downloads', log_folder='logs', quality=Quality.Q320K):
+    def __init__(self, music_url, download_folder= 'downloads', log_folder='logs', quality=Quality.Q320K):
         self.music_url = music_url
         self.download_folder = download_folder
         self.log_folder = log_folder
