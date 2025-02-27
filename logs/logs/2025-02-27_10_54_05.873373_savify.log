@@ -1,0 +1,37 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Deftones - Sextape audio
+[DEBUG]	[download] Downloading playlist: Deftones - Sextape audio
+[DEBUG]	[youtube:search] query "Deftones - Sextape audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Deftones - Sextape audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Deftones - Sextape audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=b92EKemUA4A
+[DEBUG]	[youtube] b92EKemUA4A: Downloading webpage
+[DEBUG]	[youtube] b92EKemUA4A: Downloading tv client config
+[DEBUG]	[youtube] b92EKemUA4A: Downloading player 56511309
+[DEBUG]	[youtube] b92EKemUA4A: Downloading tv player API JSON
+[DEBUG]	[youtube] b92EKemUA4A: Downloading ios player API JSON
+[DEBUG]	[youtube] b92EKemUA4A: Downloading m3u8 information
+[DEBUG]	[info] b92EKemUA4A: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\1EryAkZ0VHstC6haIxVBiE.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.84MiB at [0;32m 501.41KiB/s[0m ETA [0;33m00:07[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.84MiB at [0;32m1002.46KiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.84MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.84MiB at [0;32m   4.89MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  0.8%[0m of    3.84MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.6%[0m of    3.84MiB at [0;32m   3.08MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  3.2%[0m of    3.84MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  6.5%[0m of    3.84MiB at [0;32m   6.09MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 13.0%[0m of    3.84MiB at [0;32m   7.82MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 26.0%[0m of    3.84MiB at [0;32m   9.19MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 52.0%[0m of    3.84MiB at [0;32m   9.83MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.84MiB at [0;32m  10.34MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.84MiB in [1;37m00:00:00[0m at [0;32m4.00MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\1EryAkZ0VHstC6haIxVBiE.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\1EryAkZ0VHstC6haIxVBiE.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Deftones - Sextape audio
+[INFO]	Downloaded -> Deftones - Sextape
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 11s
+

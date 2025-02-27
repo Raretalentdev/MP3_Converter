@@ -1,0 +1,38 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Slipknot - The Devil in I audio
+[DEBUG]	[download] Downloading playlist: Slipknot - The Devil in I audio
+[DEBUG]	[youtube:search] query "Slipknot - The Devil in I audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Slipknot - The Devil in I audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Slipknot - The Devil in I audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=ONKUjAS6X3M
+[DEBUG]	[youtube] ONKUjAS6X3M: Downloading webpage
+[DEBUG]	[youtube] ONKUjAS6X3M: Downloading tv client config
+[DEBUG]	[youtube] ONKUjAS6X3M: Downloading player 56511309
+[DEBUG]	[youtube] ONKUjAS6X3M: Downloading tv player API JSON
+[DEBUG]	[youtube] ONKUjAS6X3M: Downloading ios player API JSON
+[DEBUG]	[youtube] ONKUjAS6X3M: Downloading m3u8 information
+[DEBUG]	[info] ONKUjAS6X3M: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\5hheGdf1cb4rK0FNiedCfK.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    4.60MiB at [0;32m 501.29KiB/s[0m ETA [0;33m00:09[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    4.60MiB at [0;32m1002.46KiB/s[0m ETA [0;33m00:04[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    4.60MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    4.60MiB at [0;32m   3.67MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.7%[0m of    4.60MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.3%[0m of    4.60MiB at [0;32m   3.08MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  2.7%[0m of    4.60MiB at [0;32m   4.15MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  5.4%[0m of    4.60MiB at [0;32m   6.09MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 10.8%[0m of    4.60MiB at [0;32m   7.94MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 21.7%[0m of    4.60MiB at [0;32m   9.19MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 43.5%[0m of    4.60MiB at [0;32m   9.54MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 86.9%[0m of    4.60MiB at [0;32m   9.36MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    4.60MiB at [0;32m   9.38MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    4.60MiB in [1;37m00:00:00[0m at [0;32m6.03MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\5hheGdf1cb4rK0FNiedCfK.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\5hheGdf1cb4rK0FNiedCfK.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Slipknot - The Devil in I audio
+[INFO]	Downloaded -> Slipknot - The Devil in I
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 11s
+
