@@ -1,0 +1,37 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Dean Martin - That's Amore audio
+[DEBUG]	[download] Downloading playlist: Dean Martin - That's Amore audio
+[DEBUG]	[youtube:search] query "Dean Martin - That's Amore audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Dean Martin - That's Amore audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Dean Martin - That's Amore audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=Bz5SF_-NvGQ
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading webpage
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading tv client config
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading player b191cf34
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading tv player API JSON
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading ios player API JSON
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading m3u8 information
+[DEBUG]	[info] Bz5SF_-NvGQ: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4I4aQGNJ2HufloNtB65nxR.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.38MiB at [0;32m  64.01KiB/s[0m ETA [0;33m00:37[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.38MiB at [0;32m 192.04KiB/s[0m ETA [0;33m00:12[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    2.38MiB at [0;32m 448.10KiB/s[0m ETA [0;33m00:05[0m
+[DEBUG]	[download] [0;94m  0.6%[0m of    2.38MiB at [0;32m 960.22KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  1.3%[0m of    2.38MiB at [0;32m 396.89KiB/s[0m ETA [0;33m00:06[0m
+[DEBUG]	[download] [0;94m  2.6%[0m of    2.38MiB at [0;32m 576.13KiB/s[0m ETA [0;33m00:04[0m
+[DEBUG]	[download] [0;94m  5.2%[0m of    2.38MiB at [0;32m 737.41KiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m 10.5%[0m of    2.38MiB at [0;32m   1.06MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m 21.0%[0m of    2.38MiB at [0;32m   1.68MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m 42.0%[0m of    2.38MiB at [0;32m   2.78MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 84.1%[0m of    2.38MiB at [0;32m   4.57MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.38MiB at [0;32m   5.07MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.38MiB in [1;37m00:00:00[0m at [0;32m2.98MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4I4aQGNJ2HufloNtB65nxR.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\4I4aQGNJ2HufloNtB65nxR.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Dean Martin - That's Amore audio
+[INFO]	Downloaded -> Dean Martin - That's Amore
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 8s
+

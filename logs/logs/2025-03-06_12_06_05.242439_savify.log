@@ -1,0 +1,123 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Avenged Sevenfold - Shepherd of Fire audio
+[DEBUG]	[download] Downloading playlist: Avenged Sevenfold - Shepherd of Fire audio
+[DEBUG]	[youtube:search] query "Avenged Sevenfold - Shepherd of Fire audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Avenged Sevenfold - Shepherd of Fire audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Avenged Sevenfold - Shepherd of Fire audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=yvd-HnVI61U
+[DEBUG]	[youtube] yvd-HnVI61U: Downloading webpage
+[DEBUG]	[youtube] yvd-HnVI61U: Downloading tv client config
+[DEBUG]	[youtube] yvd-HnVI61U: Downloading player b191cf34
+[DEBUG]	[youtube] yvd-HnVI61U: Downloading tv player API JSON
+[DEBUG]	[youtube] yvd-HnVI61U: Downloading ios player API JSON
+[DEBUG]	[youtube] yvd-HnVI61U: Downloading m3u8 information
+[DEBUG]	[info] yvd-HnVI61U: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\1fQaoh3imrMunWVZh5kf90.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    4.95MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    4.95MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    4.95MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    4.95MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.6%[0m of    4.95MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  1.2%[0m of    4.95MiB at [0;32m   3.94MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  2.5%[0m of    4.95MiB at [0;32m   3.97MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  5.0%[0m of    4.95MiB at [0;32m   7.97MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 10.1%[0m of    4.95MiB at [0;32m  10.65MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 20.2%[0m of    4.95MiB at [0;32m  15.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 40.4%[0m of    4.95MiB at [0;32m  25.59MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 80.8%[0m of    4.95MiB at [0;32m  19.69MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    4.95MiB at [0;32m  15.09MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    4.95MiB in [1;37m00:00:00[0m at [0;32m10.21MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\1fQaoh3imrMunWVZh5kf90.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\1fQaoh3imrMunWVZh5kf90.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Avenged Sevenfold - Shepherd of Fire audio
+[INFO]	Downloaded -> Avenged Sevenfold - Shepherd of Fire
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 14s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Gorillaz - Feel Good Inc. audio
+[DEBUG]	[download] Downloading playlist: Gorillaz - Feel Good Inc. audio
+[DEBUG]	[youtube:search] query "Gorillaz - Feel Good Inc. audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Gorillaz - Feel Good Inc. audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Gorillaz - Feel Good Inc. audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=ZxVw7bvMd3s
+[DEBUG]	[youtube] ZxVw7bvMd3s: Downloading webpage
+[DEBUG]	[youtube] ZxVw7bvMd3s: Downloading tv client config
+[DEBUG]	[youtube] ZxVw7bvMd3s: Downloading player b191cf34
+[DEBUG]	[youtube] ZxVw7bvMd3s: Downloading tv player API JSON
+[DEBUG]	[youtube] ZxVw7bvMd3s: Downloading ios player API JSON
+[DEBUG]	[youtube] ZxVw7bvMd3s: Downloading m3u8 information
+[DEBUG]	[info] ZxVw7bvMd3s: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\0d28khcov6AiegSCpG5TuT.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.27MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.27MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.27MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.27MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.9%[0m of    3.27MiB at [0;32m   1.94MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.9%[0m of    3.27MiB at [0;32m   3.94MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  3.8%[0m of    3.27MiB at [0;32m   3.97MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  7.6%[0m of    3.27MiB at [0;32m   5.31MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 15.3%[0m of    3.27MiB at [0;32m  10.65MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 30.6%[0m of    3.27MiB at [0;32m  15.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 61.2%[0m of    3.27MiB at [0;32m  25.59MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.27MiB at [0;32m  20.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.27MiB in [1;37m00:00:00[0m at [0;32m9.95MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\0d28khcov6AiegSCpG5TuT.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\0d28khcov6AiegSCpG5TuT.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Gorillaz - Feel Good Inc. audio
+[INFO]	Downloaded -> Gorillaz - Feel Good Inc.
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 9s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Avenged Sevenfold - Shepherd of Fire -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+

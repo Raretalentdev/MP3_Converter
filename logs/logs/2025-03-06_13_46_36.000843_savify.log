@@ -1,0 +1,55 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:MC Bruninho - Sou Favela audio
+[DEBUG]	[download] Downloading playlist: MC Bruninho - Sou Favela audio
+[DEBUG]	[youtube:search] query "MC Bruninho - Sou Favela audio": Downloading web client config
+[DEBUG]	[youtube:search] query "MC Bruninho - Sou Favela audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist MC Bruninho - Sou Favela audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=PvJIwSPte4E
+[DEBUG]	[youtube] PvJIwSPte4E: Downloading webpage
+[DEBUG]	[youtube] PvJIwSPte4E: Downloading tv client config
+[DEBUG]	[youtube] PvJIwSPte4E: Downloading player b191cf34
+[DEBUG]	[youtube] PvJIwSPte4E: Downloading tv player API JSON
+[DEBUG]	[youtube] PvJIwSPte4E: Downloading ios player API JSON
+[DEBUG]	[youtube] PvJIwSPte4E: Downloading m3u8 information
+[DEBUG]	[info] PvJIwSPte4E: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4lEVoOnIybtRqi4knZwdPZ.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.96MiB at [0;32m  64.02KiB/s[0m ETA [0;33m01:03[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.96MiB at [0;32m 192.05KiB/s[0m ETA [0;33m00:21[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.96MiB at [0;32m 448.11KiB/s[0m ETA [0;33m00:09[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.96MiB at [0;32m 960.23KiB/s[0m ETA [0;33m00:04[0m
+[DEBUG]	[download] [0;94m  0.8%[0m of    3.96MiB at [0;32m   1.94MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  1.6%[0m of    3.96MiB at [0;32m   1.97MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  3.1%[0m of    3.96MiB at [0;32m   3.97MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  6.3%[0m of    3.96MiB at [0;32m   5.31MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 12.6%[0m of    3.96MiB at [0;32m   7.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 25.2%[0m of    3.96MiB at [0;32m  15.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 50.4%[0m of    3.96MiB at [0;32m  25.59MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.96MiB at [0;32m  42.28MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.96MiB in [1;37m00:00:00[0m at [0;32m21.10MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4lEVoOnIybtRqi4knZwdPZ.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\4lEVoOnIybtRqi4knZwdPZ.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: MC Bruninho - Sou Favela audio
+[INFO]	Downloaded -> MC Bruninho - Sou Favela
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 11s
+
+[INFO]	Downloading 1 songs...
+[INFO]	MC Bruninho - Sou Favela -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	MC Bruninho - Sou Favela -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[INFO]	MC Bruninho - Sou Favela -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+

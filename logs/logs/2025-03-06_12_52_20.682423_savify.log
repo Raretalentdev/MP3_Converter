@@ -1,0 +1,186 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Ice Cube - You Know How We Do It audio
+[DEBUG]	[download] Downloading playlist: Ice Cube - You Know How We Do It audio
+[DEBUG]	[youtube:search] query "Ice Cube - You Know How We Do It audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Ice Cube - You Know How We Do It audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Ice Cube - You Know How We Do It audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=HvC96EaQDmU
+[DEBUG]	[youtube] HvC96EaQDmU: Downloading webpage
+[DEBUG]	[youtube] HvC96EaQDmU: Downloading tv client config
+[DEBUG]	[youtube] HvC96EaQDmU: Downloading player b191cf34
+[DEBUG]	[youtube] HvC96EaQDmU: Downloading tv player API JSON
+[DEBUG]	[youtube] HvC96EaQDmU: Downloading ios player API JSON
+[DEBUG]	[youtube] HvC96EaQDmU: Downloading m3u8 information
+[DEBUG]	[info] HvC96EaQDmU: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\67ncYmW29pNJJY2yXuLPwT.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.88MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.88MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.88MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.88MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.8%[0m of    3.88MiB at [0;32m   1.94MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.6%[0m of    3.88MiB at [0;32m   3.94MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  3.2%[0m of    3.88MiB at [0;32m   3.97MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  6.4%[0m of    3.88MiB at [0;32m   7.97MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 12.9%[0m of    3.88MiB at [0;32m  10.65MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 25.7%[0m of    3.88MiB at [0;32m  15.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 51.5%[0m of    3.88MiB at [0;32m  25.59MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.88MiB at [0;32m  10.79MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.88MiB in [1;37m00:00:00[0m at [0;32m6.53MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\67ncYmW29pNJJY2yXuLPwT.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\67ncYmW29pNJJY2yXuLPwT.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Ice Cube - You Know How We Do It audio
+[INFO]	Downloaded -> Ice Cube - You Know How We Do It
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 10s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Eazy-E - Boyz-N-The-Hood - Remix audio
+[DEBUG]	[download] Downloading playlist: Eazy-E - Boyz-N-The-Hood - Remix audio
+[DEBUG]	[youtube:search] query "Eazy-E - Boyz-N-The-Hood - Remix audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Eazy-E - Boyz-N-The-Hood - Remix audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Eazy-E - Boyz-N-The-Hood - Remix audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=AGKtyyL5aHo
+[DEBUG]	[youtube] AGKtyyL5aHo: Downloading webpage
+[DEBUG]	[youtube] AGKtyyL5aHo: Downloading tv client config
+[DEBUG]	[youtube] AGKtyyL5aHo: Downloading player b191cf34
+[DEBUG]	[youtube] AGKtyyL5aHo: Downloading tv player API JSON
+[DEBUG]	[youtube] AGKtyyL5aHo: Downloading ios player API JSON
+[DEBUG]	[youtube] AGKtyyL5aHo: Downloading m3u8 information
+[DEBUG]	[info] AGKtyyL5aHo: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\3JdyhQORbJkCWT8xfLd8gD.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    5.70MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    5.70MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    5.70MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    5.70MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.5%[0m of    5.70MiB at [0;32m   1.94MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  1.1%[0m of    5.70MiB at [0;32m   3.94MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  2.2%[0m of    5.70MiB at [0;32m   3.97MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  4.4%[0m of    5.70MiB at [0;32m   5.31MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  8.8%[0m of    5.70MiB at [0;32m  10.65MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 17.5%[0m of    5.70MiB at [0;32m  15.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 35.1%[0m of    5.70MiB at [0;32m  25.47MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 70.1%[0m of    5.70MiB at [0;32m  15.04MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    5.70MiB at [0;32m  11.77MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    5.70MiB in [1;37m00:00:00[0m at [0;32m6.63MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\3JdyhQORbJkCWT8xfLd8gD.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\3JdyhQORbJkCWT8xfLd8gD.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Eazy-E - Boyz-N-The-Hood - Remix audio
+[INFO]	Downloaded -> Eazy-E - Boyz-N-The-Hood - Remix
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 13s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[DEBUG]	[download] Downloading playlist: The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[DEBUG]	[youtube:search] query "The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio": Downloading web client config
+[DEBUG]	[youtube:search] query "The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=lfVAJNqWw84
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading webpage
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading tv client config
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading player b191cf34
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading tv player API JSON
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading ios player API JSON
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading m3u8 information
+[DEBUG]	[info] lfVAJNqWw84: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.50MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.50MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.50MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.50MiB at [0;32m Unknown B/s[0m ETA [0;33mUnknown[0m
+[DEBUG]	[download] [0;94m  0.9%[0m of    3.50MiB at [0;32m   1.94MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.8%[0m of    3.50MiB at [0;32m   3.94MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  3.5%[0m of    3.50MiB at [0;32m   3.97MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  7.1%[0m of    3.50MiB at [0;32m   5.31MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 14.2%[0m of    3.50MiB at [0;32m  10.65MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 28.5%[0m of    3.50MiB at [0;32m  15.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 57.1%[0m of    3.50MiB at [0;32m  25.59MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.50MiB at [0;32m  32.04MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.50MiB in [1;37m00:00:00[0m at [0;32m8.01MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[INFO]	Downloaded -> The Beatles - The Long And Winding Road - Naked Version / Remastered 2013
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 9s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Stephen Sanchez - Until I Found You audio
+[DEBUG]	[download] Downloading playlist: Stephen Sanchez - Until I Found You audio
+[DEBUG]	[youtube:search] query "Stephen Sanchez - Until I Found You audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Stephen Sanchez - Until I Found You audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Stephen Sanchez - Until I Found You audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=MlThQTo6D8A
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading webpage
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading tv client config
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading player b191cf34
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading tv player API JSON
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading ios player API JSON
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading m3u8 information
+[DEBUG]	[info] MlThQTo6D8A: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\0T5iIrXA4p5GsubkhuBIKV.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.71MiB at [0;32m  64.01KiB/s[0m ETA [0;33m00:43[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.71MiB at [0;32m 192.04KiB/s[0m ETA [0;33m00:14[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    2.71MiB at [0;32m 448.10KiB/s[0m ETA [0;33m00:06[0m
+[DEBUG]	[download] [0;94m  0.5%[0m of    2.71MiB at [0;32m 960.21KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  1.1%[0m of    2.71MiB at [0;32m   1.94MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  2.3%[0m of    2.71MiB at [0;32m   1.97MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  4.6%[0m of    2.71MiB at [0;32m   3.97MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  9.2%[0m of    2.71MiB at [0;32m   5.31MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 18.4%[0m of    2.71MiB at [0;32m   3.99MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 36.9%[0m of    2.71MiB at [0;32m   7.11MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 73.8%[0m of    2.71MiB at [0;32m  11.63MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.71MiB at [0;32m   6.67MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.71MiB in [1;37m00:00:01[0m at [0;32m2.71MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\0T5iIrXA4p5GsubkhuBIKV.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\0T5iIrXA4p5GsubkhuBIKV.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Stephen Sanchez - Until I Found You audio
+[INFO]	Downloaded -> Stephen Sanchez - Until I Found You
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 10s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Dean Martin - That's Amore audio
+[DEBUG]	[download] Downloading playlist: Dean Martin - That's Amore audio
+[DEBUG]	[youtube:search] query "Dean Martin - That's Amore audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Dean Martin - That's Amore audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Dean Martin - That's Amore audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=Bz5SF_-NvGQ
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading webpage
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading tv client config
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading player b191cf34
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading tv player API JSON
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading ios player API JSON
+[DEBUG]	[youtube] Bz5SF_-NvGQ: Downloading m3u8 information
+[DEBUG]	[info] Bz5SF_-NvGQ: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4I4aQGNJ2HufloNtB65nxR.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.38MiB at [0;32m  64.01KiB/s[0m ETA [0;33m00:37[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.38MiB at [0;32m 192.04KiB/s[0m ETA [0;33m00:12[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    2.38MiB at [0;32m 448.10KiB/s[0m ETA [0;33m00:05[0m
+[DEBUG]	[download] [0;94m  0.6%[0m of    2.38MiB at [0;32m 960.22KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  1.3%[0m of    2.38MiB at [0;32m 396.89KiB/s[0m ETA [0;33m00:06[0m
+[DEBUG]	[download] [0;94m  2.6%[0m of    2.38MiB at [0;32m 576.13KiB/s[0m ETA [0;33m00:04[0m
+[DEBUG]	[download] [0;94m  5.2%[0m of    2.38MiB at [0;32m 737.41KiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m 10.5%[0m of    2.38MiB at [0;32m   1.06MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m 21.0%[0m of    2.38MiB at [0;32m   1.68MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m 42.0%[0m of    2.38MiB at [0;32m   2.78MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 84.1%[0m of    2.38MiB at [0;32m   4.57MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.38MiB at [0;32m   5.07MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.38MiB in [1;37m00:00:00[0m at [0;32m2.98MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4I4aQGNJ2HufloNtB65nxR.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\4I4aQGNJ2HufloNtB65nxR.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Dean Martin - That's Amore audio
+[INFO]	Downloaded -> Dean Martin - That's Amore
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 8s
+
