@@ -1,0 +1,154 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Stephen Sanchez - Until I Found You audio
+[DEBUG]	[download] Downloading playlist: Stephen Sanchez - Until I Found You audio
+[DEBUG]	[youtube:search] query "Stephen Sanchez - Until I Found You audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Stephen Sanchez - Until I Found You audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Stephen Sanchez - Until I Found You audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=MlThQTo6D8A
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading webpage
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading tv client config
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading player 91201489
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading tv player API JSON
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading ios player API JSON
+[DEBUG]	[youtube] MlThQTo6D8A: Downloading m3u8 information
+[DEBUG]	[info] MlThQTo6D8A: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\0T5iIrXA4p5GsubkhuBIKV.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.71MiB at [0;32m 501.35KiB/s[0m ETA [0;33m00:05[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.71MiB at [0;32m1002.62KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    2.71MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.5%[0m of    2.71MiB at [0;32m   4.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  1.1%[0m of    2.71MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  2.3%[0m of    2.71MiB at [0;32m   3.08MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  4.6%[0m of    2.71MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  9.2%[0m of    2.71MiB at [0;32m   6.24MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 18.4%[0m of    2.71MiB at [0;32m  10.01MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 36.9%[0m of    2.71MiB at [0;32m  16.15MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 73.8%[0m of    2.71MiB at [0;32m  26.54MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.71MiB at [0;32m  18.94MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.71MiB in [1;37m00:00:00[0m at [0;32m7.56MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\0T5iIrXA4p5GsubkhuBIKV.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\0T5iIrXA4p5GsubkhuBIKV.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Stephen Sanchez - Until I Found You audio
+[INFO]	Downloaded -> Stephen Sanchez - Until I Found You
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 9s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Foghat - Slow Ride - Edit audio
+[DEBUG]	[download] Downloading playlist: Foghat - Slow Ride - Edit audio
+[DEBUG]	[youtube:search] query "Foghat - Slow Ride - Edit audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Foghat - Slow Ride - Edit audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Foghat - Slow Ride - Edit audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=RvE0PS9-T0w
+[DEBUG]	[youtube] RvE0PS9-T0w: Downloading webpage
+[DEBUG]	[youtube] RvE0PS9-T0w: Downloading tv client config
+[DEBUG]	[youtube] RvE0PS9-T0w: Downloading player b21600d5
+[DEBUG]	[youtube] RvE0PS9-T0w: Downloading tv player API JSON
+[DEBUG]	[youtube] RvE0PS9-T0w: Downloading ios player API JSON
+[DEBUG]	[youtube] RvE0PS9-T0w: Downloading m3u8 information
+[DEBUG]	[info] RvE0PS9-T0w: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4MYb7NWLwXNDB7bYs3HeX8.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.57MiB at [0;32m 501.29KiB/s[0m ETA [0;33m00:07[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.57MiB at [0;32m   1.47MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.57MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.57MiB at [0;32m   4.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  0.8%[0m of    3.57MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.7%[0m of    3.57MiB at [0;32m   3.25MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  3.5%[0m of    3.57MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  7.0%[0m of    3.57MiB at [0;32m   6.40MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 14.0%[0m of    3.57MiB at [0;32m  10.21MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 28.0%[0m of    3.57MiB at [0;32m  16.16MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 56.1%[0m of    3.57MiB at [0;32m  26.37MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.57MiB at [0;32m  25.91MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.57MiB in [1;37m00:00:00[0m at [0;32m11.35MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\4MYb7NWLwXNDB7bYs3HeX8.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\4MYb7NWLwXNDB7bYs3HeX8.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Foghat - Slow Ride - Edit audio
+[INFO]	Downloaded -> Foghat - Slow Ride - Edit
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 10s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Foghat - Slow Ride - Edit -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Pat Benatar - Hit Me With Your Best Shot - Remastered 1999 audio
+[DEBUG]	[download] Downloading playlist: Pat Benatar - Hit Me With Your Best Shot - Remastered 1999 audio
+[DEBUG]	[youtube:search] query "Pat Benatar - Hit Me With Your Best Shot - Remastered 1999 audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Pat Benatar - Hit Me With Your Best Shot - Remastered 1999 audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Pat Benatar - Hit Me With Your Best Shot - Remastered 1999 audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=JRD80XRMT7s
+[DEBUG]	[youtube] JRD80XRMT7s: Downloading webpage
+[DEBUG]	[youtube] JRD80XRMT7s: Downloading tv client config
+[DEBUG]	[youtube] JRD80XRMT7s: Downloading player 91201489
+[DEBUG]	[youtube] JRD80XRMT7s: Downloading tv player API JSON
+[DEBUG]	[youtube] JRD80XRMT7s: Downloading ios player API JSON
+[DEBUG]	[youtube] JRD80XRMT7s: Downloading m3u8 information
+[DEBUG]	[info] JRD80XRMT7s: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\579VGLYm9Le6DEWTi98Nt9.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.62MiB at [0;32m 501.23KiB/s[0m ETA [0;33m00:05[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.62MiB at [0;32m1002.54KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    2.62MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.6%[0m of    2.62MiB at [0;32m   4.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  1.2%[0m of    2.62MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  2.3%[0m of    2.62MiB at [0;32m   3.25MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  4.7%[0m of    2.62MiB at [0;32m   4.44MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  9.5%[0m of    2.62MiB at [0;32m   6.57MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 19.1%[0m of    2.62MiB at [0;32m  10.42MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 38.2%[0m of    2.62MiB at [0;32m  16.69MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 76.3%[0m of    2.62MiB at [0;32m  28.23MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.62MiB at [0;32m  16.62MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.62MiB in [1;37m00:00:00[0m at [0;32m11.37MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\579VGLYm9Le6DEWTi98Nt9.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\579VGLYm9Le6DEWTi98Nt9.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Pat Benatar - Hit Me With Your Best Shot - Remastered 1999 audio
+[INFO]	Downloaded -> Pat Benatar - Hit Me With Your Best Shot - Remastered 1999
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 9s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[DEBUG]	[download] Downloading playlist: The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[DEBUG]	[youtube:search] query "The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio": Downloading web client config
+[DEBUG]	[youtube:search] query "The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=lfVAJNqWw84
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading webpage
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading tv client config
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading player 91201489
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading tv player API JSON
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading ios player API JSON
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading m3u8 information
+[DEBUG]	[info] lfVAJNqWw84: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.50MiB at [0;32m 334.21KiB/s[0m ETA [0;33m00:10[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.50MiB at [0;32m1002.62KiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.50MiB at [0;32m   1.71MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.50MiB at [0;32m   3.67MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  0.9%[0m of    3.50MiB at [0;32m   2.53MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.8%[0m of    3.50MiB at [0;32m   3.08MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  3.5%[0m of    3.50MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  7.1%[0m of    3.50MiB at [0;32m   6.24MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 14.2%[0m of    3.50MiB at [0;32m  10.01MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 28.5%[0m of    3.50MiB at [0;32m  15.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 57.1%[0m of    3.50MiB at [0;32m  26.37MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.50MiB at [0;32m  36.21MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.50MiB in [1;37m00:00:01[0m at [0;32m2.68MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[INFO]	Downloaded -> The Beatles - The Long And Winding Road - Naked Version / Remastered 2013
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 11s
+

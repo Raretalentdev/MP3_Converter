@@ -1,0 +1,37 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[DEBUG]	[download] Downloading playlist: The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[DEBUG]	[youtube:search] query "The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio": Downloading web client config
+[DEBUG]	[youtube:search] query "The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=lfVAJNqWw84
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading webpage
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading tv client config
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading player 91201489
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading tv player API JSON
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading ios player API JSON
+[DEBUG]	[youtube] lfVAJNqWw84: Downloading m3u8 information
+[DEBUG]	[info] lfVAJNqWw84: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.50MiB at [0;32m 334.21KiB/s[0m ETA [0;33m00:10[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.50MiB at [0;32m1002.62KiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.50MiB at [0;32m   1.71MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.50MiB at [0;32m   3.67MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  0.9%[0m of    3.50MiB at [0;32m   2.53MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.8%[0m of    3.50MiB at [0;32m   3.08MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  3.5%[0m of    3.50MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  7.1%[0m of    3.50MiB at [0;32m   6.24MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 14.2%[0m of    3.50MiB at [0;32m  10.01MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 28.5%[0m of    3.50MiB at [0;32m  15.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 57.1%[0m of    3.50MiB at [0;32m  26.37MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.50MiB at [0;32m  36.21MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.50MiB in [1;37m00:00:01[0m at [0;32m2.68MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\6p6E3pMc9moSp5kV3BLN0y.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: The Beatles - The Long And Winding Road - Naked Version / Remastered 2013 audio
+[INFO]	Downloaded -> The Beatles - The Long And Winding Road - Naked Version / Remastered 2013
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 11s
+

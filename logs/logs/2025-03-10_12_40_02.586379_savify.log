@@ -1,0 +1,44 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Legião Urbana - Tempo Perdido audio
+[DEBUG]	[download] Downloading playlist: Legião Urbana - Tempo Perdido audio
+[DEBUG]	[youtube:search] query "Legião Urbana - Tempo Perdido audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Legião Urbana - Tempo Perdido audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Legião Urbana - Tempo Perdido audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=qku-HL1pmYs
+[DEBUG]	[youtube] qku-HL1pmYs: Downloading webpage
+[DEBUG]	[youtube] qku-HL1pmYs: Downloading tv client config
+[DEBUG]	[youtube] qku-HL1pmYs: Downloading player f6e09c70
+[DEBUG]	[youtube] qku-HL1pmYs: Downloading tv player API JSON
+[DEBUG]	[youtube] qku-HL1pmYs: Downloading ios player API JSON
+[DEBUG]	[youtube] qku-HL1pmYs: Downloading m3u8 information
+[DEBUG]	[info] qku-HL1pmYs: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\7MnT7msJZg3XBAS0OTfGrB.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    4.79MiB at [0;32m 143.24KiB/s[0m ETA [0;33m00:34[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    4.79MiB at [0;32m 376.00KiB/s[0m ETA [0;33m00:13[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    4.79MiB at [0;32m 877.34KiB/s[0m ETA [0;33m00:05[0m
+[DEBUG]	[download] [0;94m  0.3%[0m of    4.79MiB at [0;32m   1.63MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.6%[0m of    4.79MiB at [0;32m   3.04MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.3%[0m of    4.79MiB at [0;32m1010.58KiB/s[0m ETA [0;33m00:04[0m
+[DEBUG]	[download] [0;94m  2.6%[0m of    4.79MiB at [0;32m   1.12MiB/s[0m ETA [0;33m00:04[0m
+[DEBUG]	[download] [0;94m  5.2%[0m of    4.79MiB at [0;32m   1.51MiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m 10.4%[0m of    4.79MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m 20.8%[0m of    4.79MiB at [0;32m   3.64MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m 41.7%[0m of    4.79MiB at [0;32m   6.05MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 83.4%[0m of    4.79MiB at [0;32m   6.60MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    4.79MiB at [0;32m   7.83MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    4.79MiB in [1;37m00:00:00[0m at [0;32m5.35MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\7MnT7msJZg3XBAS0OTfGrB.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\7MnT7msJZg3XBAS0OTfGrB.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Legião Urbana - Tempo Perdido audio
+[INFO]	Downloaded -> Legião Urbana - Tempo Perdido
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 12s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Legião Urbana - Tempo Perdido -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+

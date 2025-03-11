@@ -1,0 +1,37 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Tevvez - Legend audio
+[DEBUG]	[download] Downloading playlist: Tevvez - Legend audio
+[DEBUG]	[youtube:search] query "Tevvez - Legend audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Tevvez - Legend audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Tevvez - Legend audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=5OZ-JOSWx1Q
+[DEBUG]	[youtube] 5OZ-JOSWx1Q: Downloading webpage
+[DEBUG]	[youtube] 5OZ-JOSWx1Q: Downloading tv client config
+[DEBUG]	[youtube] 5OZ-JOSWx1Q: Downloading player f6e09c70
+[DEBUG]	[youtube] 5OZ-JOSWx1Q: Downloading tv player API JSON
+[DEBUG]	[youtube] 5OZ-JOSWx1Q: Downloading ios player API JSON
+[DEBUG]	[youtube] 5OZ-JOSWx1Q: Downloading m3u8 information
+[DEBUG]	[info] 5OZ-JOSWx1Q: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\05EG9LwFCVjkoYEWzsrHHO.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.84MiB at [0;32m 167.13KiB/s[0m ETA [0;33m00:17[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.84MiB at [0;32m 429.71KiB/s[0m ETA [0;33m00:06[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    2.84MiB at [0;32m1002.67KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.5%[0m of    2.84MiB at [0;32m   2.10MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.1%[0m of    2.84MiB at [0;32m   1.90MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  2.2%[0m of    2.84MiB at [0;32m   1.06MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  4.4%[0m of    2.84MiB at [0;32m   1.24MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  8.8%[0m of    2.84MiB at [0;32m   1.73MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m 17.6%[0m of    2.84MiB at [0;32m   2.62MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 35.2%[0m of    2.84MiB at [0;32m   4.12MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 70.4%[0m of    2.84MiB at [0;32m   6.75MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.84MiB at [0;32m   8.81MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.84MiB in [1;37m00:00:00[0m at [0;32m3.33MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\05EG9LwFCVjkoYEWzsrHHO.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\05EG9LwFCVjkoYEWzsrHHO.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Tevvez - Legend audio
+[INFO]	Downloaded -> Tevvez - Legend
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 20s
+

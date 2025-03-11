@@ -1,0 +1,37 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Lady Gaga - Die With A Smile audio
+[DEBUG]	[download] Downloading playlist: Lady Gaga - Die With A Smile audio
+[DEBUG]	[youtube:search] query "Lady Gaga - Die With A Smile audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Lady Gaga - Die With A Smile audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Lady Gaga - Die With A Smile audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=kPa7bsKwL-c
+[DEBUG]	[youtube] kPa7bsKwL-c: Downloading webpage
+[DEBUG]	[youtube] kPa7bsKwL-c: Downloading tv client config
+[DEBUG]	[youtube] kPa7bsKwL-c: Downloading player 91201489
+[DEBUG]	[youtube] kPa7bsKwL-c: Downloading tv player API JSON
+[DEBUG]	[youtube] kPa7bsKwL-c: Downloading ios player API JSON
+[DEBUG]	[youtube] kPa7bsKwL-c: Downloading m3u8 information
+[DEBUG]	[info] kPa7bsKwL-c: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\2plbrEY59IikOBgBGLjaoe.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.92MiB at [0;32m 200.53KiB/s[0m ETA [0;33m00:20[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.92MiB at [0;32m 501.33KiB/s[0m ETA [0;33m00:08[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.92MiB at [0;32m   1.14MiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m  0.4%[0m of    3.92MiB at [0;32m   2.10MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.8%[0m of    3.92MiB at [0;32m   2.17MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.6%[0m of    3.92MiB at [0;32m   1.12MiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m  3.2%[0m of    3.92MiB at [0;32m   1.38MiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  6.3%[0m of    3.92MiB at [0;32m   1.86MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m 12.7%[0m of    3.92MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m 25.5%[0m of    3.92MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 51.0%[0m of    3.92MiB at [0;32m   6.92MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.92MiB at [0;32m  11.52MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.92MiB in [1;37m00:00:00[0m at [0;32m7.15MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\2plbrEY59IikOBgBGLjaoe.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\2plbrEY59IikOBgBGLjaoe.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Lady Gaga - Die With A Smile audio
+[INFO]	Downloaded -> Lady Gaga - Die With A Smile
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 13s
+
