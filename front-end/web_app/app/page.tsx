@@ -23,14 +23,13 @@ export default function Home() {
 
   const handleReDownload = async (fileName: string) => {
     try {
-      const response = await fetch(`${'http://192.168.3.225:5000'}/download/${fileName}`);
-      if (!response.ok) {
-        throw new Error('Erro ao baixar o arquivo.');
-      }
+      // Codifica o nome do arquivo para lidar com caracteres especiais
+      const encodedFileName = encodeURIComponent(fileName);
   
-      const blob = await response.blob(); // Obtém o conteúdo como Blob
-      const url = URL.createObjectURL(blob); // Cria uma URL temporária
-      const a = Object.assign(document.createElement('a'), { href: url, download: fileName });
+      // Cria uma tag <a> com o href apontando para a URL do arquivo
+      const a = document.createElement('a');
+      a.href = `${'http://192.168.3.225:5000'}/download/${encodedFileName}`;
+      a.download = fileName; // Define o nome do arquivo para download
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);

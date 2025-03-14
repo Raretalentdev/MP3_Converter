@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
 from converter import MusicDownloader
+from urllib.parse import unquote
 import os
 from werkzeug.exceptions import BadRequest, NotFound, InternalServerError
 
@@ -39,18 +40,23 @@ def convert():
     except Exception as e:
         return jsonify({'error': f'Ocorreu um erro ao baixar a música: {str(e)}'}), 500
 
-@app.route("/download/<file_name>", methods=['GET'])
+@app.route("/download/<path:file_name>", methods=['GET'])  # Usar 'path' para capturar nomes com barras
 def download(file_name):
-    download_folder = "downloads"
-    file_path = os.path.join(download_folder, file_name)
+    # Decodifica o nome do arquivo para lidar com caracteres especiais
+    decoded_file_name = unquote(file_name)
+    file_path = os.path.join("downloads", decoded_file_name)
 
-    # Verifica se o arquivo existe
     if not os.path.exists(file_path):
-        raise NotFound("Arquivo não encontrado")
+        print(f"Arquivo não encontrado: {file_path}")
+        return jsonify({'error': 'Arquivo não encontrado'}), 404
 
-    # Determina o MIME type com base na extensão
-    mimetype = 'audio/mpeg' if file_name.endswith('.mp3') else 'audio/wav'
-    return send_file(file_path, as_attachment=True, mimetype=mimetype)
+    mimetype = 'audio/mpeg' if decoded_file_name.endswith('.mp3') else 'audio/wav'
+    return send_file(
+        file_path,
+        as_attachment=True,
+        mimetype=mimetype,
+        download_name=decoded_file_name  # Nome original para download
+    )
 
 @app.route("/downloads", methods=['GET'])
 def list_downloads():

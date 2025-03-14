@@ -1,0 +1,123 @@
+==============================================
+Projeto: Conversor de Músicas do Spotify
+Versão: 1.0
+Framework: Next.js 15 (App Router) + Flask (Back-End)
+==============================================
+
+1. DESCRIÇÃO DO PROJETO
+-----------------------
+Este projeto permite que os usuários baixem músicas do Spotify no formato MP3 ou WAV. O sistema é dividido em duas partes principais:
+- Front-End: Interface interativa construída com Next.js 15.
+- Back-End: API RESTful construída com Flask, responsável por processar as requisições e gerenciar o download das músicas.
+
+2. FUNCIONALIDADES PRINCIPAIS
+-----------------------------
+- Download de músicas do Spotify em formato MP3 ou WAV.
+- Seleção de formato via interface gráfica.
+- Exibição do histórico dos últimos 10 downloads.
+- Mensagens de erro claras para falhas no download.
+- Limpeza automática de arquivos antigos na pasta de downloads.
+
+3. ESTRUTURA DO PROJETO
+-----------------------
+A estrutura do projeto está organizada da seguinte forma:
+
+/config
+  └── config.ts               // Variáveis globais (ex: API_BASE_URL)
+
+/hooks
+  └── useApi.ts               // Hook personalizado para gerenciar requisições à API
+
+/app
+  ├── page.tsx                // Página principal
+  └── components/
+      ├── FormatSelector.tsx  // Componente para selecionar o formato
+      ├── DownloadHistory.tsx // Componente para exibir o histórico de downloads
+      └── ErrorMessage.tsx    // Componente para exibir mensagens de erro
+
+/utils
+  └── stringUtils.ts          // Funções utilitárias para manipulação de strings
+
+/styles
+  └── globals.css             // Estilos globais (se necessário)
+
+/server
+  ├── app.py                  // Código do back-end Flask
+  └── converter.py            // Classe MusicDownloader para gerenciar downloads
+
+/downloads                  // Pasta para armazenar os arquivos baixados temporariamente
+/logs                       // Pasta para logs do sistema
+
+4. DEPENDÊNCIAS
+---------------
+As seguintes bibliotecas são necessárias para executar o projeto:
+
+Front-End:
+- React
+- Next.js 15
+- Axios
+- Tailwind CSS (para estilização)
+- react-icons (para ícones)
+
+Back-End:
+- Flask
+- Flask-CORS
+- Savify (para download de músicas do Spotify)
+- Pydub (para conversão de MP3 para WAV)
+- ffmpeg-python (dependência do Pydub)
+
+Instalação das Dependências:
+- Front-End:
+  npm install
+
+- Back-End:
+  pip install -r requirements.txt
+
+5. INSTRUÇÕES DE USO
+--------------------
+Passo 1: Configuração Inicial
+- Certifique-se de ter o Node.js e o Python instalados.
+- Instale as dependências conforme descrito na seção "Dependências".
+
+Passo 2: Executar o Back-End
+- Navegue até a pasta `server` e execute:
+  python app.py
+
+Passo 3: Executar o Front-End
+- Navegue até a pasta raiz do projeto e execute:
+  npm run dev
+
+Passo 4: Acessar a Aplicação
+- Abra o navegador e acesse http://localhost:3000 (ou outro endereço configurado).
+
+6. CONFIGURAÇÃO DA API
+----------------------
+A URL base da API é definida em `config.ts`:
+export const API_BASE_URL = 'http://192.168.3.225:5000';
+
+Certifique-se de que o back-end esteja rodando no mesmo IP e porta configurados.
+
+7. FUNCIONAMENTO INTERNO
+------------------------
+- O usuário insere um link do Spotify e seleciona o formato desejado (MP3 ou WAV).
+- O front-end envia uma requisição POST para o back-end com o link e o formato.
+- O back-end usa a classe `MusicDownloader` para baixar a música no formato MP3 e, se necessário, converte para WAV usando `pydub`.
+- O arquivo final é retornado ao front-end para download.
+- O histórico de downloads é mantido e exibido na interface.
+
+8. OBSERVAÇÕES IMPORTANTES
+--------------------------
+- Certifique-se de que o `ffmpeg` está instalado no sistema para suportar a conversão de áudio.
+- A pasta `downloads` deve ser limpa periodicamente para evitar acúmulo de arquivos.
+- Para produção, configure o back-end para usar HTTPS e proteja a API contra abusos.
+
+9. CONTATO
+----------
+Em caso de dúvidas ou problemas, entre em contato com o desenvolvedor:
+- Nome: [Seu Nome]
+- Email: [Seu Email]
+- GitHub: [Link do Repositório]
+
+==============================================
+Fim da Documentação
+==============================================

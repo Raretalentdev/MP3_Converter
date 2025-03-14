@@ -1,0 +1,37 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Deftones - My Own Summer (Shove It) audio
+[DEBUG]	[download] Downloading playlist: Deftones - My Own Summer (Shove It) audio
+[DEBUG]	[youtube:search] query "Deftones - My Own Summer (Shove It) audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Deftones - My Own Summer (Shove It) audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Deftones - My Own Summer (Shove It) audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=YHRYsJX-02Y
+[DEBUG]	[youtube] YHRYsJX-02Y: Downloading webpage
+[DEBUG]	[youtube] YHRYsJX-02Y: Downloading tv client config
+[DEBUG]	[youtube] YHRYsJX-02Y: Downloading player 6b3caec8
+[DEBUG]	[youtube] YHRYsJX-02Y: Downloading tv player API JSON
+[DEBUG]	[youtube] YHRYsJX-02Y: Downloading ios player API JSON
+[DEBUG]	[youtube] YHRYsJX-02Y: Downloading m3u8 information
+[DEBUG]	[info] YHRYsJX-02Y: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\1158ckiB5S4cpsdYHDB9IF.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    3.20MiB at [0;32m 501.29KiB/s[0m ETA [0;33m00:06[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    3.20MiB at [0;32m1002.62KiB/s[0m ETA [0;33m00:03[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    3.20MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.5%[0m of    3.20MiB at [0;32m   4.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  0.9%[0m of    3.20MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  1.9%[0m of    3.20MiB at [0;32m   3.08MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  3.9%[0m of    3.20MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  7.8%[0m of    3.20MiB at [0;32m   6.40MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 15.6%[0m of    3.20MiB at [0;32m  10.11MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 31.2%[0m of    3.20MiB at [0;32m  16.55MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 62.4%[0m of    3.20MiB at [0;32m  28.03MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    3.20MiB at [0;32m  10.14MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    3.20MiB in [1;37m00:00:00[0m at [0;32m3.58MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\1158ckiB5S4cpsdYHDB9IF.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\1158ckiB5S4cpsdYHDB9IF.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Deftones - My Own Summer (Shove It) audio
+[INFO]	Downloaded -> Deftones - My Own Summer (Shove It)
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 12s
+

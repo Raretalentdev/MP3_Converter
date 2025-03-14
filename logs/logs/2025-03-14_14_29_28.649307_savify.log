@@ -1,0 +1,80 @@
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Henrique & Juliano - Metade Da Estrada - Ao Vivo audio
+[DEBUG]	[download] Downloading playlist: Henrique & Juliano - Metade Da Estrada - Ao Vivo audio
+[DEBUG]	[youtube:search] query "Henrique & Juliano - Metade Da Estrada - Ao Vivo audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Henrique & Juliano - Metade Da Estrada - Ao Vivo audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Henrique & Juliano - Metade Da Estrada - Ao Vivo audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=FhoXFpU7KHI
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading webpage
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading tv client config
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading player 6b3caec8
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading tv player API JSON
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading ios player API JSON
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading m3u8 information
+[DEBUG]	[info] FhoXFpU7KHI: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\487QRUaN1YBrNfjip1J1nW.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.94MiB at [0;32m 501.29KiB/s[0m ETA [0;33m00:06[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.94MiB at [0;32m1002.62KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    2.94MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.5%[0m of    2.94MiB at [0;32m   4.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  1.0%[0m of    2.94MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  2.1%[0m of    2.94MiB at [0;32m   3.25MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  4.2%[0m of    2.94MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  8.5%[0m of    2.94MiB at [0;32m   6.40MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 17.0%[0m of    2.94MiB at [0;32m  10.01MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 34.0%[0m of    2.94MiB at [0;32m  16.16MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 68.0%[0m of    2.94MiB at [0;32m  27.09MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.94MiB at [0;32m  35.51MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.94MiB in [1;37m00:00:00[0m at [0;32m19.39MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\487QRUaN1YBrNfjip1J1nW.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\487QRUaN1YBrNfjip1J1nW.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Henrique & Juliano - Metade Da Estrada - Ao Vivo audio
+[INFO]	Downloaded -> Henrique & Juliano - Metade Da Estrada - Ao Vivo
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 10s
+
+[INFO]	Downloading 1 songs...
+[DEBUG]	[youtube:search] Extracting URL: ytsearch:Henrique & Juliano - Metade Da Estrada - Ao Vivo audio
+[DEBUG]	[download] Downloading playlist: Henrique & Juliano - Metade Da Estrada - Ao Vivo audio
+[DEBUG]	[youtube:search] query "Henrique & Juliano - Metade Da Estrada - Ao Vivo audio": Downloading web client config
+[DEBUG]	[youtube:search] query "Henrique & Juliano - Metade Da Estrada - Ao Vivo audio" page 1: Downloading API JSON
+[DEBUG]	[youtube:search] Playlist Henrique & Juliano - Metade Da Estrada - Ao Vivo audio: Downloading 1 items of 1
+[DEBUG]	[download] Downloading item [0;32m1[0m of [0;94m1[0m
+[DEBUG]	[youtube] Extracting URL: https://www.youtube.com/watch?v=FhoXFpU7KHI
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading webpage
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading tv client config
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading player 6b3caec8
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading tv player API JSON
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading ios player API JSON
+[DEBUG]	[youtube] FhoXFpU7KHI: Downloading m3u8 information
+[DEBUG]	[info] FhoXFpU7KHI: Downloading 1 format(s): 251
+[DEBUG]	[download] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\487QRUaN1YBrNfjip1J1nW.webm
+[DEBUG]	[download] [0;94m  0.0%[0m of    2.94MiB at [0;32m 501.35KiB/s[0m ETA [0;33m00:06[0m
+[DEBUG]	[download] [0;94m  0.1%[0m of    2.94MiB at [0;32m1002.62KiB/s[0m ETA [0;33m00:02[0m
+[DEBUG]	[download] [0;94m  0.2%[0m of    2.94MiB at [0;32m   2.28MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  0.5%[0m of    2.94MiB at [0;32m   4.90MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  1.0%[0m of    2.94MiB at [0;32m   2.76MiB/s[0m ETA [0;33m00:01[0m
+[DEBUG]	[download] [0;94m  2.1%[0m of    2.94MiB at [0;32m   3.08MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  4.2%[0m of    2.94MiB at [0;32m   4.29MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m  8.5%[0m of    2.94MiB at [0;32m   6.40MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 17.0%[0m of    2.94MiB at [0;32m  10.01MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 34.0%[0m of    2.94MiB at [0;32m  15.65MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m 68.0%[0m of    2.94MiB at [0;32m  25.70MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] [0;94m100.0%[0m of    2.94MiB at [0;32m  33.49MiB/s[0m ETA [0;33m00:00[0m
+[DEBUG]	[download] 100% of    2.94MiB in [1;37m00:00:00[0m at [0;32m22.85MiB/s[0m
+[DEBUG]	[ExtractAudio] Destination: C:\Users\Suporte\AppData\Roaming\Savify\temp\487QRUaN1YBrNfjip1J1nW.mp3
+[DEBUG]	Deleting original file C:\Users\Suporte\AppData\Roaming\Savify\temp\487QRUaN1YBrNfjip1J1nW.webm (pass -k to keep)
+[DEBUG]	[download] Finished downloading playlist: Henrique & Juliano - Metade Da Estrada - Ao Vivo audio
+[INFO]	Downloaded -> Henrique & Juliano - Metade Da Estrada - Ao Vivo
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 10s
+
+[INFO]	Downloading 1 songs...
+[INFO]	Henrique & Juliano - Metade Da Estrada - Ao Vivo -> is already downloaded. Skipping...
+[INFO]	Cleaning up...
+[INFO]	Download Finished!
+	Completed 1/1 songs in 0s
+
